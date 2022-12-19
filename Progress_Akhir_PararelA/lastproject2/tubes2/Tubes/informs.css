@@ -1,0 +1,191 @@
+.head{
+    width: 100%;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    background: url(https://w.wallhaven.cc/full/45/wallhaven-45xdd8.jpg);
+    background-repeat: no-repeat;
+    height: 40%;
+    clear: both;
+    float: left;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    opacity: 0.8;
+}
+
+.link1{
+    margin-left: 50px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.link1:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.link1 a{
+    color: rgb(196, 196, 196);
+    text-align: left;
+    padding-top: 15px;
+    text-decoration: none;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+}
+
+.title{
+    text-align: left;
+    color: rgb(196, 196, 196);
+
+}
+
+.ttb{
+    text-align: center;
+    color: rgb(228, 212, 192);
+
+}
+
+.leftcolumn{
+    width: 50%;
+    float: left;
+    margin-right: 5px;
+    margin-left: 9%;
+
+}
+
+.rightcolumn{
+    margin-top: 10px;
+    width: fit-content;
+    float: right;
+    margin-right: 9%;
+    margin-bottom: 16px;
+    
+}
+
+.card{
+    border: 1px solid rgb(255, 255, 255);
+    width: 100%;    
+    background: white;
+    left: 0;
+    right: 0;
+    padding: 0;
+    float: center;
+    position: relative;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+p.card{
+    font-size: 16px;
+    text-align: left;
+    padding: 0;
+    position: absolute;
+}
+
+.card:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.footer{
+    width: 100%;
+    background-color: rgb(46, 37, 24);
+    height: min-content;
+    position: absolute;
+    left: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.black{
+    border: 1px hidden white;
+    background: rgb(58, 51, 31);
+    width: 100%;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    left: 0;
+    
+}
+
+.bottomcolumn{
+    float: left;
+    width: 48%;
+    padding: 20px 10px;
+    text-align: center;
+}
+
+.center2{
+    margin-left: 12%;
+}
+
+.center3{
+    margin-left: 56.5%;
+}
+
+.column{
+    float: left;
+    width: 18%;
+    padding: 20px 10px;
+    text-align: center;
+}
+
+.row:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.profile{
+    width: 220px;
+    height: min-content;
+    border: 1px hidden white;
+    float: justify;
+}
+
+p.team{
+    color: white;
+    text-align: center;
+}
+
+.center{
+    margin-left: 6%;
+}
+
+.profile a{
+    text-decoration: none;
+}
+
+.profile img{
+    width: 120px;
+    height: auto;
+    float: center;
+}
+
+.sidecolumn{
+    width: 100%;
+    float: left;
+    text-align: left;
+}
+
+.contact{
+    text-align: justify;
+    color: white;
+}
+
+i{
+    float: center;
+}
+
+h1.white{
+    color: white;
+    font-family: sans-serif;
+}
+
+p.left{
+    margin-left: 4%;
+}
